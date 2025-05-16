@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aula01._1bil
+namespace Aula01._1bim
 {
-    public class MtoMm
+    public class MetrosMilimetros
     {
-        public int converter(int metros) 
+        public int Converter(int metros)
         {
             return metros * 1000;
         }
